@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\Polling_with_AP.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>All Devices</name>
+      <member>
+        <project>Polling_with_AP</project>
+        <configuration>CC2430-Sender</configuration>
+      </member>
+      <member>
+        <project>Polling_with_AP</project>
+        <configuration>CC2430-Receiver</configuration>
+      </member>
+      <member>
+        <project>Polling_with_AP</project>
+        <configuration>CC2430-Access Point</configuration>
+      </member>
+      <member>
+        <project>Polling_with_AP</project>
+        <configuration>CC2430-Range Extender</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

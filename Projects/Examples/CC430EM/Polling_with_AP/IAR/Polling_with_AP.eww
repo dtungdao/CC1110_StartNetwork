@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\Polling_with_AP.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>All Devices</name>
+      <member>
+        <project>Polling_with_AP</project>
+        <configuration>CC430F5137-AccessPoint</configuration>
+      </member>
+      <member>
+        <project>Polling_with_AP</project>
+        <configuration>CC430F5137-RangeExtender</configuration>
+      </member>
+      <member>
+        <project>Polling_with_AP</project>
+        <configuration>CC430F5137-Receiver</configuration>
+      </member>
+      <member>
+        <project>Polling_with_AP</project>
+        <configuration>CC430F5137-Sender</configuration>
+      </member>
+      <member>
+        <project>Polling_with_AP</project>
+        <configuration>CC430F6137-AccessPoint</configuration>
+      </member>
+      <member>
+        <project>Polling_with_AP</project>
+        <configuration>CC430F6137-RangeExtender</configuration>
+      </member>
+      <member>
+        <project>Polling_with_AP</project>
+        <configuration>CC430F6137-Receiver</configuration>
+      </member>
+      <member>
+        <project>Polling_with_AP</project>
+        <configuration>CC430F6137-Sender</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

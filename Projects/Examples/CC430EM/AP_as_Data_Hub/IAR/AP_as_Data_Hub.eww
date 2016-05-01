@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\Ap_as_Data_Hub.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>All Devices</name>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC430F5137-AccessPoint</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC430F5137-ChannelSniffer</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC430F5137-EndDevice</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC430F5137-RangeExtender</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC430F6137-AccessPoint</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC430F6137-ChannelSniffer</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC430F6137-EndDevice</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC430F6137-RangeExtender</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\Ap_as_Data_Hub.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>All Devices</name>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100-End Device</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100-Access Point</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100-Channel Sniffer</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100-Range Extender</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1101-End Device</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1101-Access Point</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1101-Channel Sniffer</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1101-Range Extender</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100E-End Device</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100E-Access Point</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100E-Channel Sniffer</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100E-Range Extender</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC2500-End Device</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC2500-Access Point</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC2500-Channel Sniffer</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC2500-Range Extender</configuration>
+      </member>
+    </batchDefinition>
+    <batchDefinition>
+      <name>CC1100 Devices</name>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100-End Device</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100-Access Point</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100-Channel Sniffer</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100-Range Extender</configuration>
+      </member>
+    </batchDefinition>
+    <batchDefinition>
+      <name>CC1101 Devices</name>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1101-End Device</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1101-Access Point</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1101-Channel Sniffer</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1101-Range Extender</configuration>
+      </member>
+    </batchDefinition>
+    <batchDefinition>
+      <name>CC1100E Devices</name>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100E-End Device</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100E-Access Point</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100E-Channel Sniffer</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC1100E-Range Extender</configuration>
+      </member>
+    </batchDefinition>
+    <batchDefinition>
+      <name>CC2500 Devices</name>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC2500-End Device</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC2500-Access Point</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC2500-Channel Sniffer</configuration>
+      </member>
+      <member>
+        <project>Ap_as_Data_Hub</project>
+        <configuration>CC2500-Range Extender</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>

@@ -1,0 +1,12 @@
+*** Node device
++ Receive toggle command from Contorl Box
++ Data polling enable, interval ~ 3s, sleep in PM2 between 2 polling time + turn off RF section
++ AP connecting polling enable, interval ~ 4s, sleep in PM2 between 2 polling time
++ If no response from AP (5 time failed), fource reset by WDT
++ Adding PWM for LED dimming
++ Handling data from Control Box
++ Start/Stop LED dimming from phone
+
+*** Control Box device
++ Integrated wifi module handling
++ Forward command from wifi module to all Node

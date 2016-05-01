@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\UART_Bridge.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>All Devices</name>
+      <member>
+        <project>UART_Bridge</project>
+        <configuration>CC430F5137-LinkListen</configuration>
+      </member>
+      <member>
+        <project>UART_Bridge</project>
+        <configuration>CC430F5137-LinkTo</configuration>
+      </member>
+      <member>
+        <project>UART_Bridge</project>
+        <configuration>CC430F6137-LinkListen</configuration>
+      </member>
+      <member>
+        <project>UART_Bridge</project>
+        <configuration>CC430F6137-LinkTo</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

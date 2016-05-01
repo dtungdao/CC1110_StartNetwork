@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\Cascading_End_Devices.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>All Devices</name>
+      <member>
+        <project>Cascading_End_Devices</project>
+        <configuration>CC2430-EndDevice</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

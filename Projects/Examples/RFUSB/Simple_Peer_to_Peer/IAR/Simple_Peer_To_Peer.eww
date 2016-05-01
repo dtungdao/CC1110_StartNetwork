@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\Simple_Peer_To_Peer.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>All Devices</name>
+      <member>
+        <project>Simple_Peer_To_Peer</project>
+        <configuration>CC1111-LinkTo</configuration>
+      </member>
+      <member>
+        <project>Simple_Peer_To_Peer</project>
+        <configuration>CC1111-LinkListen</configuration>
+      </member>
+      <member>
+        <project>Simple_Peer_To_Peer</project>
+        <configuration>CC2511-LinkTo</configuration>
+      </member>
+      <member>
+        <project>Simple_Peer_To_Peer</project>
+        <configuration>CC2511-LinkListen</configuration>
+      </member>
+    </batchDefinition>
+    <batchDefinition>
+      <name>CC1111 Devices</name>
+      <member>
+        <project>Simple_Peer_To_Peer</project>
+        <configuration>CC1111-LinkTo</configuration>
+      </member>
+      <member>
+        <project>Simple_Peer_To_Peer</project>
+        <configuration>CC1111-LinkListen</configuration>
+      </member>
+    </batchDefinition>
+    <batchDefinition>
+      <name>CC2511 Devices</name>
+      <member>
+        <project>Simple_Peer_To_Peer</project>
+        <configuration>CC2511-LinkTo</configuration>
+      </member>
+      <member>
+        <project>Simple_Peer_To_Peer</project>
+        <configuration>CC2511-LinkListen</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+
